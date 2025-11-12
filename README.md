@@ -1,5 +1,5 @@
 ![logo](https://github.com/Nan1mi/Nan1mi/blob/main/-2147483648_-218692.jpg)
-<h1 align="center">Hi, I'm Milka!</h1>
+<h1 align="center">Hi, I'm Mila!</h1>
 <h3 align="center">✨I'm interested in programming and learning new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nan1mi&label=Profile%20views&color=0e75b6&style=flat" alt="nan1mi" /> </p>
